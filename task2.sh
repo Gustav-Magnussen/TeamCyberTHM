@@ -1,8 +1,5 @@
 #!/bin/bash
 
-
-#!/bin/bash
-
 FINALNUMB=0
 HOPS=0
 while true; do
